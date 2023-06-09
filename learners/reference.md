@@ -96,10 +96,9 @@ Glosario](https://glosario.carpentries.org/) (CC-BY-4.0)*
 
 ## Commands
 
-See [this cheat sheet](files/sql-cheat-sheet.md) for an list of the commands
-covered in this lesson.
-
-### Keywords
+See this [cheat sheet](files/sql-cheat-sheet.html) for a summary of the commands
+covered in this lesson, or refer to the table below for an overview of keywords
+related to querying in SQL.
 
 <table>
     <thead>
@@ -175,5 +174,3 @@ covered in this lesson.
         </tr>
     </tbody>
 </table>
-
-
